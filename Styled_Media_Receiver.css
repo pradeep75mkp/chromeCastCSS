@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(background.png);
+  background: center no-repeat url("https://github.com/pradeep75mkp/chromeCastCSS/blob/main/background.png");
 }
 
 .logo {
-  background-image: url(logo.png);
+  background-image: url("https://github.com/pradeep75mkp/chromeCastCSS/blob/main/logo.png");
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url(splash.png);
+  background-image: url("https://github.com/pradeep75mkp/chromeCastCSS/blob/main/splash.png");
 }
 
 .watermark {
-  background-image: url(watermark.png);
+  background-image: url("https://github.com/pradeep75mkp/chromeCastCSS/blob/main/watermark.png");
   background-size: 57px 57px;
 }
